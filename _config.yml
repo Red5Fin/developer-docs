@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+title: Developer Documentation
+description: Red5Fin Foundation
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
