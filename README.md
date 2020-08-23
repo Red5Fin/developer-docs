@@ -1,5 +1,3 @@
-# Developer Docs
-
 ## Git Flow
 
 Before start working - check branch - `git branch`
